@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/pwa_test2/static/css/main.f855e6bc.css",
-    "main.js": "/pwa_test2/static/js/main.f27a5543.js",
-    "static/js/488.102311b7.chunk.js": "/pwa_test2/static/js/488.102311b7.chunk.js",
-    "service-worker.js": "/pwa_test2/service-worker.js",
-    "static/media/logo.svg": "/pwa_test2/static/media/logo.2d27ead7c10f774c5306bcf3c257a728.svg",
-    "index.html": "/pwa_test2/index.html",
-    "main.f855e6bc.css.map": "/pwa_test2/static/css/main.f855e6bc.css.map",
-    "main.f27a5543.js.map": "/pwa_test2/static/js/main.f27a5543.js.map",
-    "488.102311b7.chunk.js.map": "/pwa_test2/static/js/488.102311b7.chunk.js.map"
+    "main.css": "/ceremonia/static/css/main.f855e6bc.css",
+    "main.js": "/ceremonia/static/js/main.a9b0c153.js",
+    "static/js/488.102311b7.chunk.js": "/ceremonia/static/js/488.102311b7.chunk.js",
+    "static/media/logo.png": "/ceremonia/static/media/logo.bb2d3641a6fb3e34ea90.png",
+    "service-worker.js": "/ceremonia/service-worker.js",
+    "index.html": "/ceremonia/index.html",
+    "main.f855e6bc.css.map": "/ceremonia/static/css/main.f855e6bc.css.map",
+    "main.a9b0c153.js.map": "/ceremonia/static/js/main.a9b0c153.js.map",
+    "488.102311b7.chunk.js.map": "/ceremonia/static/js/488.102311b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.f27a5543.js"
+    "static/js/main.a9b0c153.js"
   ]
 }
