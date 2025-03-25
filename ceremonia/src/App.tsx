@@ -48,7 +48,7 @@ function App() {
     { name: 'お数珠', src: process.env.PUBLIC_URL + '/movie/お数珠.mp4' },
     { name: 'お焼香', src: process.env.PUBLIC_URL + '/movie/お焼香.mp4' },
     { name: '玉串奉奠', src: process.env.PUBLIC_URL + '/movie/玉串奉奠.mp4' },
-    { name: '湯灌', src: process.env.PUBLIC_URL + '/movie/湯灌.mp4' },
+    { name: '湯灌', src: 'https://drive.google.com/uc?id=1_WjcxXdI8WZ6TwV1U8C6CINilolBRu5t&export=download' },
   ];
 
 
