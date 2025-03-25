@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/ceremonia/static/css/main.f855e6bc.css",
-    "main.js": "/ceremonia/static/js/main.a9b0c153.js",
+    "main.js": "/ceremonia/static/js/main.90ee1011.js",
     "static/js/488.102311b7.chunk.js": "/ceremonia/static/js/488.102311b7.chunk.js",
     "static/media/logo.png": "/ceremonia/static/media/logo.bb2d3641a6fb3e34ea90.png",
     "service-worker.js": "/ceremonia/service-worker.js",
     "index.html": "/ceremonia/index.html",
     "main.f855e6bc.css.map": "/ceremonia/static/css/main.f855e6bc.css.map",
-    "main.a9b0c153.js.map": "/ceremonia/static/js/main.a9b0c153.js.map",
+    "main.90ee1011.js.map": "/ceremonia/static/js/main.90ee1011.js.map",
     "488.102311b7.chunk.js.map": "/ceremonia/static/js/488.102311b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.a9b0c153.js"
+    "static/js/main.90ee1011.js"
   ]
 }
