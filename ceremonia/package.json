@@ -2,13 +2,18 @@
   "name": "ceremonia",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nemutas.github.io/pwa_test2/",
+  "homepage": "https://aoi-takumi.github.io/ceremonia",
   "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/material": "^6.4.8",
     "cra-template-pwa-typescript": "2.0.0",
     "gh-pages": "^6.3.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-scripts": "5.0.1"
+    "react-router-dom": "^7.4.0",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^4.2.4"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -34,5 +39,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.6.3",
+    "@types/jest": "^29.5.14",
+    "@types/testing-library__react": "^10.2.0"
   }
 }
